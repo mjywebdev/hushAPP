@@ -1,0 +1,33 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+.display-3{
+  font-weight: 700;
+}
+
+.fa-user-secret{
+  color: slateblue;
+}
+
+.btn-dark{
+  background-color: slateblue;
+}
+
+.btn-light:hover{
+   background-color: slateblue;
+   color: #fff;
+}
+
